@@ -1,0 +1,61 @@
+.tx{
+text-align: justify;
+padding-left: 47%;
+}
+body{
+    text-align: center;
+    padding: 200;
+    padding-bottom: 10px;
+}
+h1{
+    font-family: cursive;
+    color:red ;
+    font-size: 40px;
+}
+h3{
+    color: white;
+    font-size: 35px;
+}
+.a{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+}
+a{
+
+   text-decoration: none;
+}
+.b{
+    width: 25px;
+    height: 25px;
+}
+.e{
+    width: 760px;
+    height: 460px;
+}
+.f{
+    margin: auto;;
+    width: 760px;
+    height: 260px;
+}
+.d{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    font-weight: 200;
+}
+.XT{
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: 200;
+    text-decoration: underline;
+}
+p{
+    color: brown;
+    font-size: 20px;
+    font-weight: 200;
+}
+.block{
+    background: rgb(244,130,130);
+background: linear-gradient(22deg, rgba(244,130,130,1) 21%, rgba(126,226,120,1) 36%, rgba(142,110,110,1) 54%, rgba(237,168,191,1) 75%, rgba(153,255,255,1) 93%);
+}
